@@ -63,9 +63,12 @@ span {
     max-width: 60px;
     margin-left: auto;
 }
+.container .pro-container h1 {
+    font-size: 1.65rem;
+}
 .container .pro-container p {
     font-weight: 200;
-    font-size: 0.999rem;
+    font-size: 0.875rem;
     line-height: 1.75;
 }
 @media screen and (max-width: 1531px){
